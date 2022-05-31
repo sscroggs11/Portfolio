@@ -152,7 +152,7 @@
 }
 
 .view-animation:hover .content {
-    height: 120px;
+    height: 200px;
     width: 300px;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
     filter: alpha(opacity=90);
